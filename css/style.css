@@ -1,0 +1,13 @@
+.box {
+    width: 200px;
+    height: 120px;
+    background-color: aquamarine;
+    border-radius: 20%;
+}
+
+#box1 {
+    width: 350px;
+    height: 378px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+}
